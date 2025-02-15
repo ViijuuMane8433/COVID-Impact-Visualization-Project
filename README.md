@@ -1,3 +1,5 @@
+# Visualizing the Pandemic: A Comprehensive Study of COVID-19's Global Impact and Vaccination Effects:
+
 his research project examines the global impact of the COVID-19 pandemic from 2020 to 2022, utilizing comprehensive data collected worldwide. 
 The study presents meticulously curated, multi-dimensional data visualizations that illustrate the pandemic's effects across various countries. 
 Visual data Dashboard: https://public.tableau.com/app/profile/vijay.mane8143/viz/CovidDashboardProject_17396218099300/Dashboard1
